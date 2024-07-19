@@ -1,6 +1,7 @@
 <?php
 /* ----------- Arrrays ----------- */
 // PHP provides you with two types of arrays: indexed and associative.
+// both are mutables
 
 // Indexed arrays - Arrays with a numeric index
 $numbers = [1,2,3,4];
